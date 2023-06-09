@@ -36,6 +36,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^3.0.22"
+		"class-variance-authority": "^0.6.0",
+		"clsx": "^1.2.1",
+		"daisyui": "^3.0.22",
+		"pocketbase": "^0.15.2",
+		"tailwind-merge": "^1.13.1"
 	}
 }
